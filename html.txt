@@ -1,0 +1,58 @@
+<html>
+<head>
+	<title> Practise </title>
+</head>
+<body style="background-color:grey">
+	<!--This is a comment-->
+	
+	<h1> Practising more </h1>
+	<h2 style ="font:Trail"> this is heading #2 with a different font </h2>
+	
+	<p>
+		<b> This text is bold </b>
+	</p>
+	<p style= "color:blue">
+		This is a trail paragraph. There is a link here. <a href="http://google.com"> Click here for the link</a>. 
+	</p>
+	<ul>
+		<li> Item 1 </li>
+		<li> Item 2 </li>
+		<li> Item 3 </li>
+		<li> Item 4 </li>
+	</ul>
+	<ol>
+		<li> List item 1</li>
+		<li> List item 1 </li>
+		<li> List item 2 </li>
+		<li> List item 3 </li>
+	</ol>
+	<table>
+		<tr>
+			<th> Name </th>
+			<th> Age </th>
+			<th> Ethnicity </th>
+		</tr>
+		<tr>
+			<td style="color:red"> Harleen</td>
+			<td>19</td>
+			<td>Indian</td>
+		</tr>
+		<tr>
+			<td style="color:blue"> Gurleen</td>
+			<td>18</td>
+			<td>Indian</td>
+		</tr>
+		<tr>
+			<td style="color:white">Shurmin</td>
+			<td>17</td>
+			<td>Indian</td>
+	</tr>	
+</table>
+</body>
+</html>
+	
+			
+	
+	
+		
+	
